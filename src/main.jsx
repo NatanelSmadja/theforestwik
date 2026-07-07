@@ -151,7 +151,7 @@ function App() {
         <div className="brand">
           <span className="brandLogo">🌲</span>
           <div>
-            <b>The Forest Wikipadia</b>
+            <b>The Forest Wiki</b>
             <small>V10 • companion app</small>
           </div>
         </div>
